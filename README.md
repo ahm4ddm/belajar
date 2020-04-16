@@ -1,0 +1,2 @@
+# belajar
+perintah dasar linux
